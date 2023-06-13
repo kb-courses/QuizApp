@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Was ist der Rekord für die meisten in einer Saison geschossenen Tore eines Spieler?",
+    "choice1": "44",
+    "choice2": "41",
+    "choice3": "40",
+    "choice4": "39",
+    "answer": 2
+  },
+  {
+    "question": "Wer hält den Rekord mit den meisten Toren in einer Saison?",
+    "choice1": "Gerd Müller",
+    "choice2": "Pierre-Emerick Aubameyang",
+    "choice3": "Robert Lewandowski",
+    "choice4": "Erling Haaland",
+    "answer": 3
+  },
+  {
+    "question": "Wer ist Rekordmeister?",
+    "choice1": "FC Bayern München",
+    "choice2": "Hamburger SV",
+    "choice3": "Borussia Dortmund",
+    "choice4": "Schalke 04",
+    "answer": 1
+  },
+  {
+    "question": "Wie viele Vereine in der Saison 2022/23 kommen aus Nordrhein-Westfalen?",
+    "choice1": "3",
+    "choice2": "5",
+    "choice3": "4",
+    "choice4": "6",
+    "answer": 4
+  },
+  {
+    "question": "Wer sind die beiden Direktabsteiger der Saison 2022/23?",
+    "choice1": "Hertha BSC und Schalke 04",
+    "choice2": "Augsburg und Hertha BSC",
+    "choice3": "Hertha BSC und Stuttgart",
+    "choice4": "Schalke 04 und Stuttgart",
+    "answer": 1
+  }
+]

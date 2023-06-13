@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Wer ist Rekordsieger des DFB Pokals?",
+    "choice1": "FC Bayern München",
+    "choice2": "Borussia Dortmund",
+    "choice3": "Werder Bremen",
+    "choice4": "Hamburger SV",
+    "answer": 1
+  },
+  {
+    "question": "Wer ist Rekordtorschütze des DFB Pokals",
+    "choice1": "Robert Lewandowski",
+    "choice2": "Mario Gomez",
+    "choice3": "Gerd Müller",
+    "choice4": "Thomas Müller",
+    "answer": 3
+  },
+  {
+    "question": "Wer viele Mannschaften starten in der 1 Runde des DFB Pokals?",
+    "choice1": "48",
+    "choice2": "128",
+    "choice3": "64",
+    "choice4": "32",
+    "answer": 3
+  },
+  {
+    "question": "Wo findet das Pokalfinale statt?",
+    "choice1": "Heinz von Heiden Arena - Hannover",
+    "choice2": "MERKUR SPIEL-ARENA - Düsseldorf",
+    "choice3": "Deutsche Bank Park - Frankfurt",
+    "choice4": "Olympiastadion - Berlin",
+    "answer": 4
+  },
+  {
+    "question": "Wer hat nach Bayern die meisten DFB Pokal Siege",
+    "choice1": "Werder Bremen",
+    "choice2": "Borussia Dortmund",
+    "choice3": "Schalke 04",
+    "choice4": "Eintracht Frankfurt",
+    "answer": 1
+  }
+]
